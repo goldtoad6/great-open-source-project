@@ -100,6 +100,7 @@
     - [安卓端](#安卓端)
     - [IOS 端](#ios-端)
     - [键盘启动器](#键盘启动器)
+    - [翻译软件](#翻译软件)
   - [文库项目](#文库项目)
     - [API 接口管理](#api-接口管理)
     - [项目管理](#项目管理)
@@ -593,7 +594,7 @@
 - [milvus](https://github.com/milvus-io/milvus) - 一个云原生的矢量数据库，为下一代人工智能应用提供存储空间。[在线文档](https://milvus.io/docs)
 - [minio](https://github.com/minio/minio) - 一个高性能的**对象存储**，它与 `Amazon S3` 云存储服务的 `API` 兼容。[在线文档](https://min.io/docs/minio/kubernetes/upstream/)
 - [Chat2DB](https://github.com/CodePhiliaX/Chat2DB)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/6dH4qVOiGZVl2ETJ_TBvjw)</sup> - 智能的通用**数据库工具**和 `SQL` 客户端。[在线文档](https://chat2db.opensource.alibaba.com/docs/)
-- [Yearning](https://github.com/cookieY/Yearning) - 开箱即用的 `MySQL`、 `SQL` 审核工具。[在线文档](http://next.yearning.io/)
+- [Yearning](https://github.com/cookieY/Yearning)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/ut7EOw4dmqlY7uNuQFrSJA)</sup> - 开箱即用的 `MySQL`、 `SQL` 审核工具。[在线文档](http://next.yearning.io/)
 - [otter](https://github.com/alibaba/otter) - 阿里巴巴分布式数据库同步系统(解决中美异地机房)。[在线文档](https://github.com/alibaba/otter/wiki)
 - [dynamic-datasource](https://github.com/baomidou/dynamic-datasource) - 一个基于 `SpringBoot` 的快速集成多数据源的启动器。[在线文档](https://www.kancloud.cn/tracy5546/dynamic-datasource/2264611)
 - [Archery](https://github.com/hhyo/Archery) - `SQL` 审核查询平台。[在线体验](https://demo.archerydms.com/) [在线文档](https://archerydms.com/home/)
@@ -992,7 +993,7 @@
 - [MooTool](https://github.com/rememberber/MooTool)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/aABaRjt_0goXCQX-EiDwXg)</sup> - 开发者常备桌面小工具。[在线文档](https://mootool.luoboduner.com/)
 - [tldr](https://github.com/tldr-pages/tldr) - 命令速查手册工具。[在线体验](https://tldr.inbrowser.app/)
 - [devdocs](https://github.com/freeCodeCamp/devdocs) - 一个将多种 API 文档集合于一体的工具网站，支持离线使用、模糊搜索和键盘操作，提升开发者查阅效率。[在线体验](https://devdocs.io/)
-- [nginxpulse](https://github.com/likaia/nginxpulse) - 轻量级 `Nginx` 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。[在线体验](https://nginx-pulse.kaisir.cn/)
+- [nginxpulse](https://github.com/likaia/nginxpulse)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/2iLN3tQ51_iLThFpD1peNA)</sup> - 轻量级 `Nginx` 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。[在线体验](https://nginx-pulse.kaisir.cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1123,6 +1124,7 @@
 - [wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一款在线的微信公众号文章批量下载工具。[在线体验](https://down.mptext.top/dashboard/account)
 - [videodl](https://github.com/CharlesPikachu/videodl) - 轻量级视频下载器。[在线文档](https://videofetch.readthedocs.io/zh/latest/)
 - [VidBee](https://github.com/nexmoe/VidBee) - 一款现代化的开源视频下载器，支持从全球 1000 多个网站下载视频和音频。[在线文档](https://docs.vidbee.org/)
+- [Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 一款跨平台（`Windows/Linux/macOS`）的 B 站视频下载工具，支持下载 B 站投稿视频、番剧、电影等类型视频。[在线文档](https://bili23.scott-sloan.cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1383,7 +1385,6 @@
 - [KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作，模拟点击和键入。
 - [keyviz](https://github.com/mulaRahul/keyviz) - 一个免费的开源工具，可以实时可视化键盘和鼠标操作。
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - `OCR` 图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。
-- [TTime](https://github.com/InkTimeRecord/TTime)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/pVPpYSok83rUas6gz6QeBg)</sup> - 一款简洁高效的输入、截图、划词翻译软件。
 - [FreeTube](https://github.com/FreeTubeApp/FreeTube)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/dvRtbeXY0o0Hx6Jq3Vq1fQ)</sup> - 一款开源桌面 `YouTube` 播放器， 基于 `Electron`，支持 `Windows`、`Mac` 和 `Linux`.
 - [geometrize](https://github.com/Tw1ddle/geometrize) - 一款桌面应用程序，可将图像几何化为几何基元。
 - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - 一款开源的笔记工具。
@@ -1408,7 +1409,6 @@
 - [massCode](https://github.com/massCodeIO/massCode)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/zG7_nqVTQ2QGET6GcB_UQQ)</sup> - 一个免费开源的跨平台代码片段管理工具。
 - [desktop](https://github.com/desktop/desktop) - 一个基于 `Electron` + `TypeScript` + `React` 开源的 `GitHub` 应用程序。
 - [eSearch](https://github.com/xushengfeng/eSearch) - 一款支持截屏、离线OCR、搜索翻译、以图搜图、贴图、录屏、滚动截屏软件。[在线文档](https://esearch.vercel.app/)
-- [pot-desktop](https://github.com/pot-app/pot-desktop) - 一个跨平台的划词翻译软件。[在线文档](https://pot-app.com/)
 - [moodiary](https://github.com/ZhuJHua/moodiary) - 一款基于 `Flutter` 构建的开源跨平台日记应用。 
 - [saber](https://github.com/saber-notes/saber) - 一款专为手写而设计的笔记应用。
 - [BongoCat](https://github.com/ayangweb/BongoCat)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/j_-E9heQOhexcW4WUEJLRw)</sup> - 跨平台桌宠 BongoCat，为桌面增添乐趣。
@@ -1423,7 +1423,6 @@
 
 ###	Windows 端
 
-- [Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 一款基于 `OCR` 的生肉翻译软件。[在线文档](https://dango-docs.ap-sh.starivercs.cn/#/)
 - [ToastFish](https://github.com/Uahh/ToastFish)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/AdGX88mhFkk4MXsn97xIfg)</sup> - 一个利用摸鱼时间**背单词**的软件。
 - [Tai](https://github.com/Planshit/Tai) - 在 `Windows` 上统计软件使用时长和网站浏览时长。
 - [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/yKZvXwrFCqEwioF3_hL6Ag)</sup> - 可以让你在 `Windows` 操作系统的任务栏养一只小猫。
@@ -1454,7 +1453,6 @@
 
 - [LibreTube](https://github.com/libre-tube/LibreTube) - 开源的**油管** `Android` 客户端。
 - [WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - 分析 `WiFi` 信号的 `Android` 应用程序。 
-- [RTranslator](https://github.com/niedev/RTranslator) - 一款开源、免费、离线的 `Android` 实时翻译应用程序。
 - [my-tv](https://github.com/lizongying/my-tv) - 电视直播软件，安装即可使用。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -1468,6 +1466,16 @@
 - [Wox](https://github.com/Wox-launcher/Wox) - `WoX` 是一个简单的 `Windows` 启动程序。这是 `Alfred` 和 `Launchy` 的替代品。
 - [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Ltb1Z6lS9IP8auPheD0-wQ)</sup> - 一个专为 `Windows` 系统设计的开源应用启动器和文件搜索工具。[在线文档](https://www.flowlauncher.com/docs/#/)
 - [ueli](https://github.com/oliverschwendener/ueli) - 一款跨平台按键启动器。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+### 翻译软件
+
+- [TTime](https://github.com/InkTimeRecord/TTime)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/pVPpYSok83rUas6gz6QeBg)</sup> - 一款简洁高效的输入、截图、划词翻译软件。
+- [pot-desktop](https://github.com/pot-app/pot-desktop) - 一个跨平台的划词翻译软件。[在线文档](https://pot-app.com/)
+- [Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 一款基于 `OCR` 的 `Windows` 生肉翻译软件。[在线文档](https://dango-docs.ap-sh.starivercs.cn/#/)
+- [RTranslator](https://github.com/niedev/RTranslator) - 一款开源、免费、离线的 `Android` 实时翻译应用程序。
+- [Easydict](https://github.com/tisfeng/Easydict) - 一个简洁易用的词典翻译 `macOS App`，能够轻松优雅地查找单词或翻译文本。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
