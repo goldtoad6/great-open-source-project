@@ -961,6 +961,7 @@
 ### 影视工具
 
 - [moyin-creator](https://github.com/MemeCalculate/moyin-creator) - `AI` 影视生产级工具，支持 `Seedance2.0`，剧本到成片全流程批量化。
+- [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) - `AI` 全自动短视频引擎。[在线文档](https://aidc-ai.github.io/Pixelle-Video/zh/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -968,7 +969,7 @@
 
 - [chat-master](https://github.com/panday94/chat-master)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/V3Od95sub0q9mQ-gliEMsQ)</sup> - 基于 `AI` 大模型 `API` 实现的自建后端对话服务，支出同步响应及流式响应，完美呈现打印机效果。[在线体验](https://chatmaster.top/admin/#/index) [在线文档](https://www.yuque.com/panday94/ct0azl/ehxcgoy0xg41l9c3)
 - [aiflowy](https://gitee.com/aiflowy/aiflowy) - 一个基于 `Java` 开发的、企业级 `AI` 应用开发平台。[在线文档](https://aiflowy.tech/)
-- [ruoyi-ai](https://github.com/ageerle/ruoyi-ai) - 一个全栈式 `AI` 开发平台，旨在帮助开发者快速构建和部署个性化的 `AI` 应用。[在线体验](https://web.pandarobot.chat/#/login) [在线文档](https://doc.pandarobot.chat/)
+- [ruoyi-ai](https://github.com/ageerle/ruoyi-ai)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Jw1FRRGkVUQ8xUQNHXOGJA)</sup> - 一个全栈式 `AI` 开发平台，旨在帮助开发者快速构建和部署个性化的 `AI` 应用。[在线体验](https://web.pandarobot.chat/#/login) [在线文档](https://doc.pandarobot.chat/)
 - [CordysCRM](https://github.com/1Panel-dev/CordysCRM)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/QsN6U_faztwsdW3QFK6i1A)</sup> - 新一代的开源 `AI CRM` 系统，是集信息化、数字化、智能化于一体的**客户关系管理系统**。[在线文档](https://cordys.cn/docs/)
 - [MaxKB](https://github.com/1Panel-dev/MaxKB)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/W3eqmjJdXYN--1GJM3oNdA)</sup> - 强大易用的企业级智能体平台。[在线文档](https://maxkb.cn/docs/v2/)
 
@@ -1379,6 +1380,7 @@
 - [TypeWords](https://github.com/zyronon/TypeWords)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/b5WVPrFyiyoFfNC5mX3-lw)</sup> - 开源英语单词与文章练习工具。[在线体验](https://typewords.cc/)
 - [NCE](https://github.com/iChochy/NCE) - 《新概念英语》全四册在线课文朗读、单句点读、中英对照。[在线体验](https://nce.ichochy.com/)
 - [typing-practice.toolsnav.top](https://github.com/wincatcher/typing-practice.toolsnav.top) - 一个使用 `Vite` 构建的在线英文打字练习应用。[在线体验](https://typing-practice.toolsnav.top/)
+- [MuJing](https://github.com/tangshimin/MuJing) - 一款通过电影、美剧或文档中的真实语境学习英语单词的应用，让您在原汁原味的情境中记忆词汇，提升学习效率。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1440,7 +1442,7 @@
 - [linkandroid](https://github.com/modstart-lib/linkandroid) - 一个全能手机连接助手，方便快捷的连接 `Android` 和电脑，连接手机后可投屏、`GIF/MP4`录屏、截屏、文件管理、手机操作等功能。
 - [alt-sendme](https://github.com/tonyantony300/alt-sendme) - 一款采用 `Rust` 和 `Tauri` 构建的开源 `P2P` 文件传输工具，无需注册和服务器，即可实现端到端的文件传输。
 - [SteamTools](https://github.com/BeyondDimension/SteamTools) - 一个开源跨平台的多功能 Steam 工具箱。
-- [keyStats](https://github.com/debugtheworldbot/keyStats) - 一款轻量级的 `macOS/Windows` 原生菜单栏应用，用于统计用户每日的键盘敲击次数、鼠标点击次数、鼠标移动距离和滚动距离。
+- [keyStats](https://github.com/debugtheworldbot/keyStats)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0OBruaGVfmIwQM4PHPXQkw)</sup> - 一款轻量级的 `macOS/Windows` 原生菜单栏应用，用于统计用户每日的键盘敲击次数、鼠标点击次数、鼠标移动距离和滚动距离。
 - [MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect) - 一款跨平台鼠标特效与输入可视化引擎。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -1463,6 +1465,7 @@
 - [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - `Windows` 内存清理器。
 - [LiteMonitor](https://github.com/Diorser/LiteMonitor)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/1-Z-fBZCYjfmoP32DGYqVA)</sup> - 一款轻量、可定制的开源桌面硬件监控软件 — 实时监测 `CPU`、`GPU`、内存、磁盘、网络等系统性能。
 - [Inkeys](https://github.com/Alan-CRL/Inkeys) - 全能型屏幕批注工具。[在线文档](https://www.inkeys.top/)
+- [Screenbox](https://github.com/huynhsontung/Screenbox) - 一款基于 `LibVLC` 的 `Windows` 媒体播放器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1480,6 +1483,8 @@
 - [WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - 分析 `WiFi` 信号的 `Android` 应用程序。 
 - [my-tv](https://github.com/lizongying/my-tv) - 电视直播软件，安装即可使用。
 - [XMSLEEP](https://github.com/Tosencen/XMSLEEP)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/cID25pd1BA4fywo1bhYoAw)</sup> - 一个专注于白噪音播放的 Android 应用，帮助你放松、专注和入眠。
+- [plain-app](https://github.com/plainhub/plain-app)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/pXQ2RSGh76iQ1xhh8f0pDQ)</sup> - 一款开源安卓应用，可让您通过网页浏览器安全地管理手机，通过简洁易用的界面，访问文件、媒体、联系人、短信、通话记录等。
+- [MicYou](https://github.com/LanRhyme/MicYou) - 一款强大的工具，能够将您的 `Android` 设备转变为 `PC` 的高质量麦克风。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
