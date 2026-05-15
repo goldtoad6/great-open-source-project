@@ -278,7 +278,6 @@
 - [molecule](https://github.com/DTStack/molecule) - 一个轻量的 `Web` `IDE` `UI` 框架。[在线体验](https://dtstack.github.io/molecule-examples/#/)
 - [illa-builder](https://github.com/illacloud/illa-builder) - 一个强大的开源低代码平台。
 - ~~[movie-web](https://github.com/movie-web/movie-web) - 一个在线可轻松观看电影和节目的应用程序。[在线体验](https://movie-web.app/)~~
-- [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 开箱即用的中台前端/设计解决方案。[在线体验](https://preview.pro.ant.design/dashboard/analysis) [在线文档](https://pro.ant.design/zh-CN/docs/overview)
 - [tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template) - 免费、开源的落地页模板，适用于快速制作公司主页。[在线体验](https://simple.cruip.com/)
 - [pic-smaller](https://github.com/joye61/pic-smaller)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/cnLsiokiNGZSZyTtXm7zew)</sup> - 在线图片压缩工具。[在线体验](https://txx.cssrefs.com/)
 - [dber](https://github.com/findyourmagic/dber)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/oBvVQCAdXNVsI9SKxHjXmw)</sup> - 基于实体连接图的数据库设计工具。[在线体验](https://dber.tech/)
@@ -505,6 +504,7 @@
 - [admin3](https://github.com/cjbi/admin3)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/y3Dr6u6O7HFapxof30BV8A)</sup> - 一个轻巧的后台管理框架，项目后端基于 `Java17`、`SpringBoot 3.0`，前端基于 `TypeScript`、`Vite3`、`Vue3`、`Element Plus`.
 - [sz-boot-parent](https://github.com/feiyuchuixue/sz-boot-parent)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/iEvyw6fMOTTDHxmsSy25mw)</sup> - 一个开源 `RBAC` 中后台框架，专为现代应用设计。[在线体验](https://preview.szadmin.cn/home/index) [在线文档](https://szadmin.cn/)
 - [smart-admin](https://github.com/1024-lab/smart-admin)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/TLz4FWyx8uuRd89nbZpjIg)</sup>  - 基于 `SpringBoot` + `Sa-Token` + `Mybatis-Plus` 和 `Vue3` + `Vite5` + `Ant Design Vue 4.x` 中后台解决方案。[在线体验](https://preview.smartadmin.vip/#/home) [在线文档](https://smartadmin.vip/views/v3/base/About.html)
+- [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 开箱即用的中台前端/设计解决方案。[在线体验](https://preview.pro.ant.design/dashboard/analysis) [在线文档](https://pro.ant.design/zh-CN/docs/overview)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -604,7 +604,6 @@
 - [dynamic-datasource](https://github.com/baomidou/dynamic-datasource) - 一个基于 `SpringBoot` 的快速集成多数据源的启动器。[在线文档](https://www.kancloud.cn/tracy5546/dynamic-datasource/2264611)
 - [Archery](https://github.com/hhyo/Archery) - `SQL` 审核查询平台。[在线体验](https://demo.archerydms.com/) [在线文档](https://archerydms.com/home/)
 - 强大的 `SQL` 注入工具。
-- [datagear](https://github.com/datageartech/datagear) - 数据可视化分析平台，自由制作任何您想要的数据看板。[在线文档](http://www.datagear.tech/documentation)
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - 一款强大的 `SQL` 注入工具。
 - [slashbase](https://github.com/slashbaseide/slashbase) - 支持 `MySQL`、`PostgreSQL`&`MongoDB` 的数据库管理 `IDE`.[在线体验](https://demo.slashbase.com/)
 - [SmartSqlT](https://github.com/TeslaFly01/SmartSqlT)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/so3zGjbz8FLHhOHVCcVQVw)</sup> - 一款方便、快捷的数据库文档查询、导出工具。
@@ -785,6 +784,7 @@
 - [JimuReport](https://github.com/jeecgboot/JimuReport) - 「低代码可视化报表」类似 `excel` 操作风格，在线拖拽完成报表设计。[在线体验](http://jimureport.com/login) [在线文档](https://help.jeecg.com/)
 - [go-view](https://github.com/dromara/go-view)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Vzo7pJfeO687PsWLgk1pXg)</sup> - 一个低代码数据可视化开发平台。[在线体验](https://vue.mtruning.club/#/project/items) [在线文档](https://www.mtruning.club/guide/start/)
 - [openDataV](https://github.com/AnsGoo/openDataV) - 一个纯前端的拖拽式、可视化、低代码数据可视化开发平台。[在线体验](https://datav.byteportrait.com/#/)
+- [datagear](https://github.com/datageartech/datagear) - 数据可视化分析平台，自由制作任何您想要的数据看板。[在线文档](http://www.datagear.tech/documentation)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -867,13 +867,14 @@
 - [web_tool](https://github.com/geeeeeeeek/web_tool) - 静态响应式网址导航网站，全静态 `Html` 页面，一键部署安装。[在线体验](https://geeeeeeeek.github.io/web_tool/)
 - [homer](https://github.com/bastienwirtz/homer) - 一个简单而强大的个人主页生成器，适合用来展示你的各种服务和链接。[在线体验](https://homer-demo.netlify.app/)
 - [flame](https://github.com/pawelmalak/flame) - 个人导航页。
-- [bmm](https://github.com/Y80/bmm) - 专属书签管家。[在线体验](https://bmm.lccl.cc/)
+- [bmm](https://github.com/Y80/bmm)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/yzmgUqa8pp3LWHn34GQi4g)</sup> - 专属书签管家。[在线体验](https://bmm.lccl.cc/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
 ### UI 框架
 
 - [ChatUI](https://github.com/alibaba/ChatUI) - 阿里巴巴团队开源的对话式 `UI` 设计语言与 `React` 组件库，专为构建智能对话界面而生。[在线文档](https://chatui.io/)
+- [x](https://github.com/ant-design/x) - 基于 `Ant Design` 设计体系的 `React UI` 库、专为 `AI` 驱动界面设计，开箱即用的智能对话组件、无缝集成 `API`服务，快速搭建智能应用界面。[在线文档](https://x.ant.design/components/introduce-cn)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -904,7 +905,7 @@
 ### 网关项目
 
 - [gateway](https://github.com/Portkey-AI/gateway) - 超快的 `AI` 网关，通过统一简单的 `API`，让用户轻松快速接入 100 多种大语言模型。
-- [gpt-load](https://github.com/tbphp/gpt-load) - 一个高性能、企业级的 `AI` 接口透明代理服务，专门为需要集成多种 `AI` 服务的企业和开发者设计。
+- [gpt-load](https://github.com/tbphp/gpt-load)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/GULBWTOsJQdHZNGTVGEfpw)</sup> - 一个高性能、企业级的 `AI` 接口透明代理服务，专门为需要集成多种 `AI` 服务的企业和开发者设计。
 - [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/WlMRoTdw625PCJxd-dwJLA)</sup> - 自建 `Claude Code` 镜像，一站式开源中转服务，让 `Claude`、`OpenAI`、`Gemini`、`Droid` 订阅统一接入。[在线体验](https://demo.pincc.ai/admin-next/login) [在线文档](https://pincc.ai/)
 - [one-api](https://github.com/songquanpeng/one-api) - `OpenAI` 接口管理 & 分发系统，已打包好 `Docker` 镜像，一键部署，开箱即用。[在线体验](https://openai.justsong.cn/panel)
 - [new-api](https://github.com/QuantumNous/new-api)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/XkGcvome-nmO3eDlmVRT3Q)</sup> - 大模型网关与 `AI` 资产管理系统。[在线文档](https://docs.newapi.pro/zh/docs/installation)
@@ -1074,6 +1075,7 @@
 - [gitstars](https://github.com/cfour-hi/gitstars)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/hzBvMa3RQ6X_ZVz39jeXrg)</sup> - `Github` `Stars` 存储库管理器，开发者必备的存储库管理工具。[在线体验](https://gitstars.cfour.top/)
 - [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/4qfQC-aXEbs4HzBdqeLslA)</sup> - 一个用于管理 `GitHub` `Star` 存储库的应用程序。[在线文档](https://zread.ai/AmintaCCCP/GithubStarsManager)
 - [gh-space-shooter](https://github.com/czl9707/gh-space-shooter) - 基于 `GitHub` 贡献生成太空射击动图。[在线体验](https://gh-space-shooter.kiyo-n-zane.com/)
+- [codeflow](https://github.com/braedonsaunders/codeflow) - 将任何 `GitHub` 代码库或本地代码库转换为交互式架构图。[在线体验](https://codeflow-five.vercel.app/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
