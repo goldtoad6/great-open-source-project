@@ -44,6 +44,7 @@
     - [Api 网关项目](#api-网关项目)
     - [中间件项目](#中间件项目)
     - [数据操作项目](#数据操作项目)
+    - [数据库设计工具](#数据库设计工具)
     - [博客社区项目](#博客社区项目)
     - [聊天项目](#聊天项目)
     - [音乐播放器项目](#音乐播放器项目)
@@ -271,6 +272,7 @@
 - [ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/tdswQtyBBjPPO23J-TDAzw)</sup> - 一款免费易用且打造的全功能**媒体播放器**。[在线文档](https://zy.catni.cn/)
 - [chronoframe](https://github.com/HoshinoSuzumi/chronoframe)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/ZCBZZG47kfKzP7Ut-lmtDQ)</sup> - 丝滑的照片展示和管理应用，支持多种图片格式和大尺寸图片渲染。[在线体验](https://lens.bh8.ga/) [在线文档](https://chronoframe.bh8.ga/zh/)
 - [log-lottery](https://github.com/LOG1997/log-lottery)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/IV7jfWpB9PxN6fKduXYOeQ)</sup> - 一个可配置可定制化的**抽奖应用**，炫酷 3D 球体，可用于年会抽奖等活动，支持奖品、人员、界面、图片音乐配置。[在线体验](https://to2026.xyz/log-lottery/home)
+- [weektodo](https://github.com/manuelernestog/weektodo) - 一款免费开源的极简主义周计划和待办事项应用。[在线体验](https://app.weektodo.me/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -283,7 +285,6 @@
 - ~~[movie-web](https://github.com/movie-web/movie-web) - 一个在线可轻松观看电影和节目的应用程序。[在线体验](https://movie-web.app/)~~
 - [tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template) - 免费、开源的落地页模板，适用于快速制作公司主页。[在线体验](https://simple.cruip.com/)
 - [pic-smaller](https://github.com/joye61/pic-smaller)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/cnLsiokiNGZSZyTtXm7zew)</sup> - 在线图片压缩工具。[在线体验](https://txx.cssrefs.com/)
-- [dber](https://github.com/findyourmagic/dber)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/oBvVQCAdXNVsI9SKxHjXmw)</sup> - 基于实体连接图的数据库设计工具。[在线体验](https://dber.tech/)
 - [social-app](https://github.com/bluesky-social/social-app) - 适用于 `Web`、`iOS` 和 `Android` 的 `Bluesky Social` 应用程序。[在线体验](https://bsky.app/)
 - [aspoem](https://github.com/meetqy/aspoem)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/uaoT_HiLkaD-VNrcc4Kung)</sup> - 现代化诗词学习网站，一个更加注重 `UI` 和阅读体验的诗词网站。[在线体验](https://aspoem.com/zh-Hans)
 - [LiveTerm](https://github.com/Cveinnt/LiveTerm) - 在几分钟内构建终端风格的网站。[在线体验](https://liveterm.vercel.app/)
@@ -302,12 +303,14 @@
 - [WindowPet](https://github.com/SeakMengs/WindowPet)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0wKkur8zkRexxKYhCMSYRQ)</sup> - 一款使用 `Tauri` 和 `React` 构建的宠物叠加应用程序，可让您在屏幕上拥有可爱的宠物、动漫人物等伙伴。
 - [FreeTool](https://github.com/zstar1003/FreeTool)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/eDWUWRWJta4US61LeSZdbw)</sup> - 一个纯前端的多功能在线工具站，提供实用的日常工具。[在线体验](https://xdxsb.top/FreeTool/)
 - [ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) - 紫微斗数开源排盘引擎，基于倪海夏《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据。[在线体验](https://wdyziweidoushu666.com)
+- [magic-resume](https://github.com/JOYCEQL/magic-resume)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/sClb6tG4KSzLUYzLkDoRew)</sup> - 一款基于 `TanStack Start` 和 `Motion` 构建的现代化在线 `AI` 简历编辑器，无需登录、内置多种模板。[在线体验](https://magicv.art/app/dashboard/resumes)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
 ### HTML 项目
 
 - [gift-book](https://github.com/jingguanzhang/gift-book)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/PY1X2tgRPu3BEimMCkpF3Q)</sup> - 一款开源免费，完全离线、数据 AES 加密的现代化电子礼簿系统。[在线体验](https://jingguanzhang.github.io/gift-book/)
+- [exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - 上千个健身动作的集合，包含 1000+ 个健身动作的开放数据集，每条记录标注了动作名称、目标肌群、协同肌肉、所需器械和分步教程。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -615,10 +618,8 @@
 - [SmartSqlT](https://github.com/TeslaFly01/SmartSqlT)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/so3zGjbz8FLHhOHVCcVQVw)</sup> - 一款方便、快捷的数据库文档查询、导出工具。
 - [dbsyncer](https://github.com/86dbs/dbsyncer)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wfjcDTmSkoQsvS20GDEnZg)</sup> - 一款开源的数据同步中间件。[在线文档](https://gitee.com/ghi/dbsyncer/wikis/%E4%BB%8B%E7%BB%8D)
 - [datalinkx](https://github.com/spitfireuptown/datalinkx) - 异构数据源之间的数据同步系统，支持海量数据的增量或全量同步，同时支持 `HTTP`、`Oracle`、`MySQL`、`ES` 等数据源之间的数据流转。
-- [drawdb](https://github.com/drawdb-io/drawdb)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/dHP6FG-me7qW8njWPAL4wA)</sup> - 免费、简单且直观的在线数据库设计工具和 `SQL` 生成器。[在线体验](https://drawdb.vercel.app/)
 - [dbgate](https://github.com/dbgate/dbgate) - 跨平台数据库管理器。[在线体验](https://demo.dbgate.org/)
 - [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/uO48_DGwm9AqzpsVfG9tqw)</sup> - 适用于 `MySQL`、`Postgres`、`SQLite`、`SQL Server` 等的现代且易于使用的 `SQL` 客户端。
-- [chartdb](https://github.com/chartdb/chartdb)- 一个功能强大的、基于网页的数据库图表编辑器。[在线体验](https://app.chartdb.io/diagrams/wzuzvobkucys)
 - [anyclient-web](https://github.com/hanbingzi/anyclient-web) - 一款开源、支持 `Web` 和客户端，能够连接各种类型数据服务的管理软件。
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - 一款实用的 `SQLite` 数据库桌面管理工具。
 - [sqlite-web](https://github.com/coleifer/sqlite-web) - 基于 `Python` 实现的在线 `SQLite` 数据库操作工具。
@@ -629,6 +630,14 @@
 - [GoNavi](https://github.com/Syngnat/GoNavi)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0APiAe7od1Ub8-olhY_bSw)</sup> - 一款基于 `Wails(Go)` 与 `React` 构建的跨平台数据库管理工具。
 - [databasus](https://github.com/databasus/databasus) - 一款免费、开源且可自行托管的数据库备份工具。
 - [dbx](https://github.com/t8y2/dbx)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/HpI-miUDzLyIO0lVL1xg3g)</sup> - 轻量级跨平台数据库客户端。[在线文档](https://dbxio.com/cn/docs/what-is-dbx)
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+### 数据库设计工具
+
+- [dber](https://github.com/findyourmagic/dber)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/oBvVQCAdXNVsI9SKxHjXmw)</sup> - 基于实体连接图的数据库设计工具。[在线体验](https://dber.tech/)
+- [drawdb](https://github.com/drawdb-io/drawdb)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/dHP6FG-me7qW8njWPAL4wA)</sup> - 免费、简单且直观的在线数据库设计工具和 `SQL` 生成器。[在线体验](https://drawdb.vercel.app/)
+- [chartdb](https://github.com/chartdb/chartdb)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/eKHoOh6809VZpybpm4nbzA)</sup> - 一个功能强大的、基于网页的数据库图表编辑器。[在线体验](https://app.chartdb.io/diagrams/wzuzvobkucys)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -704,6 +713,7 @@
 - [music-website](https://github.com/Yin-Hongwei/music-website)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/LtBoao3BHsfbJSjYroWYMA)</sup> - 一个基于 `Vue3` + `SpringBoot` + `MyBatis` 实现的音乐网站。
 - [spotube](https://github.com/KRTirtho/spotube) - 一个开源跨多系统的**音乐播放器**客户端。
 - [SPlayer](https://github.com/imsyy/SPlayer)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/L7ByCbt0PuCxXjALwk-V_Q)</sup> - 一个简约的音乐播放器，支持逐字歌词、下载歌曲、展示评论区、音乐云盘及歌单管理、音乐频谱、移动端基础适配。
+- [Mineradio](https://github.com/XxHuberrr/Mineradio) - 一款 Windows 桌面沉浸式音乐播放器，把搜索播放、歌词舞台、粒子视觉、3D 歌单架和完整桌面模式组合成一个更接近现场感的私人音乐空间。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -911,6 +921,7 @@
 - [RedInk](https://github.com/HisMax/RedInk) - 小红书 `AI` 图文生成器。
 - [91Writing](https://github.com/ponysb/91Writing)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/G1MQ4P_uXlbzmR7GdFANtA)</sup> - 一个基于 `Vue3` + `Element Plus` 的智能 `AI` 小说创作工具，集成多种 `AI` 模型，助力作者高效创作。[在线体验](https://mlimli.art/home/kaiyuan/#/)
 - [llmfit](https://github.com/AlexsJones/llmfit)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/NM1EiOshq0fNoPKiXbyl-Q)</sup> - 一款终端工具，根据你系统的 `RAM`、`CPU` 和 `GPU` 为 `LLM` 模型匹配合适的规格。
+- [edict](https://github.com/cft0808/edict) - 一个基于“三省六部”制度思想的 `AI` 多智能体（`Multi-Agent`）协作系统。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1120,6 +1131,7 @@
 - [gh-space-shooter](https://github.com/czl9707/gh-space-shooter) - 基于 `GitHub` 贡献生成太空射击动图。[在线体验](https://gh-space-shooter.kiyo-n-zane.com/)
 - [codeflow](https://github.com/braedonsaunders/codeflow)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Wrcuetcf-MnzA0XJEsbZow)</sup> - 将任何 `GitHub` 代码库或本地代码库转换为交互式架构图。[在线体验](https://codeflow-five.vercel.app/)
 - [metrics](https://github.com/lowlighter/metrics) - 一款生成可嵌入到任何地方的 `GitHub` 指标生成工具。[在线体验](https://metrics.lecoq.io/)
+- [gitfut](https://github.com/Younesfdj/gitfut) - 一款将 `GitHub` 个人数据生成足球球星卡的 `Web` 应用，可根据提交、`Star`、`PR`、关注者、语言等数据换算成球员能力值。[在线体验](https://gitfut.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1222,6 +1234,7 @@
 - [MyComic](https://gitee.com/luqichuang/MyComic) - 安卓在线漫画阅读器。
 - [mihon](https://github.com/mihonapp/mihon) - 一个免费的开源漫画阅读器，适用于 `Android` 平台。
 - [readest](https://github.com/readest/readest)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0YZsp4ecv7sekswsgSIlsQ)</sup> - 一款免费开源的 `EPUB` 和 `PDF` 电子书阅读器，专为深度沉浸式阅读而打造。[在线体验](https://web.readest.com/)
+- [ColorTxt](https://github.com/ssnangua/ColorTxt) - 一款会给内容上色的本地 `TXT` 小说阅读器，带给你不一样的阅读体验。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
