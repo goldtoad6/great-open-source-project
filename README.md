@@ -1002,6 +1002,7 @@
 - [CordysCRM](https://github.com/1Panel-dev/CordysCRM)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/QsN6U_faztwsdW3QFK6i1A)</sup> - 新一代的开源 `AI CRM` 系统，是集信息化、数字化、智能化于一体的**客户关系管理系统**。[在线文档](https://cordys.cn/docs/)
 - [MaxKB](https://github.com/1Panel-dev/MaxKB)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/W3eqmjJdXYN--1GJM3oNdA)</sup> - 强大易用的企业级智能体平台。[在线文档](https://maxkb.cn/docs/v2/)
 - [LibreChat](https://github.com/danny-avila/LibreChat) - 一个自托管的 `AI` 对话平台，在一个注重隐私的统一界面中整合了所有主流 `AI` 服务商。[在线体验](https://chat.librechat.ai/) [在线文档](https://www.librechat.ai/zh/docs)
+- [StaffDeck](https://github.com/OpenBMB/StaffDeck) - 一个数字员工全流程构建与管理平台。[在线文档](https://staffdeck.openbmb.cn/#/docs/introduce?lang=zh)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1452,6 +1453,8 @@
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全**中华古诗词数据库**，唐宋两朝近一万四千古诗人，接近5.5万首唐诗加26万宋诗，两宋时期1564位词人，21050首词。[在线体验](https://awesome-poetry.top/huajianji/)
 - [chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) - 高性能中国古诗词 `API` 服务。[在线体验](https://poetry.palemoky.com/)
 - [MaoZeDongAnthology](https://github.com/weiyinfu/MaoZeDongAnthology) - 毛泽东选集。[在线体验](https://weiyinfu.cn/MaoZeDongAnthology/)
+- [shiji-kb](https://github.com/baojie/shiji-kb) - 《史记》知识库，用 AI 将《史记》57万字转化为可交互、可探索的知识图谱，让两千年前的文字像代码一样可以语法高亮、跳转、搜索、推理。[在线体验](https://shiji.memify.wiki/)
+- [china-history](https://github.com/hunterhug/china-history) - 中华民族二十四史：史记，汉书，后汉书，三国志等。[在线体验](https://hunterhug.github.io/china-history/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1473,7 +1476,7 @@
 - [escrcpy](https://github.com/viarotel-org/escrcpy) - 使用图形化的 `Scrcpy` 显示和控制 `Android` 设备，由 `Electron` 驱动。[在线文档](https://viarotel.eu.org/zhHans/)
 - [KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作，模拟点击和键入。
 - [keyviz](https://github.com/mulaRahul/keyviz) - 一个免费的开源工具，可以实时可视化键盘和鼠标操作。
-- [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - `OCR` 图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。
+- [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/v9QVGYlz2JPFSO_DvCuhgA)</sup> - `OCR` 图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。
 - [FreeTube](https://github.com/FreeTubeApp/FreeTube)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/dvRtbeXY0o0Hx6Jq3Vq1fQ)</sup> - 一款开源桌面 `YouTube` 播放器， 基于 `Electron`，支持 `Windows`、`Mac` 和 `Linux`.
 - [geometrize](https://github.com/Tw1ddle/geometrize) - 一款桌面应用程序，可将图像几何化为几何基元。
 - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - 一款开源的笔记工具。
@@ -1614,6 +1617,7 @@
 - [planka](https://github.com/plankanban/planka) - 一款看板式的项目管理工具。[在线体验](https://plankanban.github.io/planka/#/) [在线文档](https://docs.planka.cloud/)
 - [metersphere](https://github.com/metersphere/metersphere)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/6oUjqv9tDemoXX71c_jVZA)</sup> - 一站式开源**持续测试平台**, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter`、`Selenium` 等主流开源标准。[在线体验](https://www.metersphere.com/signup) [在线文档](https://metersphere.io/docs/v2.x/)
 - [super-productivity](https://github.com/super-productivity/super-productivity)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/WDQk-jdLU4iaWSbZ6MjQGg)</sup> - 一款用 `TypeScript` 开发的高级 `TODO` 应用，支持与 `Jira`、`GitHub`、`GitLab` 等第三方平台集成，提供 `Windows`、`Linux`、`macOS`、`iOS`、`Android` 和 `Web` 端。
+- [kaneo](https://github.com/usekaneo/kaneo) - 一款项目看板管理工具。[在线体验](https://cloud.kaneo.app/) [在线文档](https://kaneo.app/docs/core)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1641,7 +1645,7 @@
 
 - [memos](https://github.com/usememos/memos) - 一个具有知识管理和社交网络的开源、自我托管的备忘录中心。[在线体验](https://demo.usememos.com/explore)
 - [Ech0](https://github.com/lin-snow/Ech0)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/NSeXpWv3RdiZXm6MHCyT9A)</sup> - 面向个人的新一代开源、自托管、专注思想流动的轻量级内容分享发布平台。[在线体验](https://memo.vaaat.com/)
-- [Rote](https://github.com/Rabithua/Rote) - 一款基于 `React` 和 `Node.js` 构建、追求极简和优雅体验的个人笔记平台。[在线体验](https://demo.rote.ink/home)
+- [Rote](https://github.com/Rabithua/Rote)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wd28kCLtRCcl2NF6dcQ5lA)</sup> - 一款基于 `React` 和 `Node.js` 构建、追求极简和优雅体验的个人笔记平台。[在线体验](https://demo.rote.ink/home)
 - [blinko](https://github.com/blinkospace/blinko)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wrvxsP3a5jH9_j8qlicHEw)</sup> - 开源的 `AI` 驱动卡片笔记。[在线体验](https://demo.blinko.space/) [在线文档](https://docs.blinko.space/zh/introduction)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
