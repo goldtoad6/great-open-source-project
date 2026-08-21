@@ -44,6 +44,7 @@
     - [Api 网关项目](#api-网关项目)
     - [中间件项目](#中间件项目)
     - [数据操作项目](#数据操作项目)
+    - [数据库管理工具](#数据库管理工具)
     - [数据库设计工具](#数据库设计工具)
     - [博客社区项目](#博客社区项目)
     - [聊天项目](#聊天项目)
@@ -604,7 +605,6 @@
 - [DataX](https://github.com/alibaba/DataX) - 阿里云 `DataWorks` **数据集成**的开源版本，实现了包括 `MySQL`、`Oracle`、`OceanBase`、`SqlServer`、`Postgre`、`HDFS`、`Hive`、`ADS`、`HBase`、`TableStore(OTS)`、`MaxCompute(ODPS)`、`Hologres`、`DRDS ` 等各种异构数据源之间高效的数据同步功能。
 - [TDengine](https://github.com/taosdata/TDengine) - TDengine 是一款开源、高性能、云原生的**时序数据库**（`Time Series Database`, TSDB）, 它专为物联网、车联网、工业互联网、金融、IT 运维等场景优化设计。[在线文档](https://docs.taosdata.com/)
 - [dsq](https://github.com/multiprocessio/dsq) - 一个**命令行工具**，可对数据文件进行 `SQL` 查询，支持 `JSON`、`CSV`、`Excel`、`Parquet` 等数据文件。
-- [dbeaver](https://github.com/dbeaver/dbeaver) - 免费的通用**数据库工具**和 `SQL` 客户端。
 - [milvus](https://github.com/milvus-io/milvus) - 一个云原生的矢量数据库，为下一代人工智能应用提供存储空间。[在线文档](https://milvus.io/docs)
 - [minio](https://github.com/minio/minio) - 一个高性能的**对象存储**，它与 `Amazon S3` 云存储服务的 `API` 兼容。[在线文档](https://min.io/docs/minio/kubernetes/upstream/)
 - [Chat2DB](https://github.com/CodePhiliaX/Chat2DB)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/6dH4qVOiGZVl2ETJ_TBvjw)</sup> - 智能的通用**数据库工具**和 `SQL` 客户端。[在线文档](https://chat2db.opensource.alibaba.com/docs/)
@@ -619,17 +619,24 @@
 - [dbsyncer](https://github.com/86dbs/dbsyncer)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wfjcDTmSkoQsvS20GDEnZg)</sup> - 一款开源的数据同步中间件。[在线文档](https://gitee.com/ghi/dbsyncer/wikis/%E4%BB%8B%E7%BB%8D)
 - [datalinkx](https://github.com/spitfireuptown/datalinkx) - 异构数据源之间的数据同步系统，支持海量数据的增量或全量同步，同时支持 `HTTP`、`Oracle`、`MySQL`、`ES` 等数据源之间的数据流转。
 - [dbgate](https://github.com/dbgate/dbgate) - 跨平台数据库管理器。[在线体验](https://demo.dbgate.org/)
-- [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/uO48_DGwm9AqzpsVfG9tqw)</sup> - 适用于 `MySQL`、`Postgres`、`SQLite`、`SQL Server` 等的现代且易于使用的 `SQL` 客户端。
 - [anyclient-web](https://github.com/hanbingzi/anyclient-web) - 一款开源、支持 `Web` 和客户端，能够连接各种类型数据服务的管理软件。
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - 一款实用的 `SQLite` 数据库桌面管理工具。
 - [sqlite-web](https://github.com/coleifer/sqlite-web) - 基于 `Python` 实现的在线 `SQLite` 数据库操作工具。
 - [sqlpage](https://github.com/sqlpage/sqlpage) - 一款基于 `SQL` 的网页应用构建器。[在线体验](https://sql-page.com/)
-- [cloudbeaver](https://github.com/dbeaver/cloudbeaver)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/p5LOyyPG90NwenfkPurp0A)</sup> - 一款 Web 数据库管理工具。[在线体验](https://demo.cloudbeaver.io/#/)
 - [SQLBot](https://github.com/dataease/SQLBot)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/_Lwad5TlLcW8JCgMPvmPrg)</sup> - 一款基于大模型和 `RAG` 的智能问数系统。[在线文档](https://dataease.cn/sqlbot/v1/)
+- [databasus](https://github.com/databasus/databasus) - 一款免费、开源且可自行托管的数据库备份工具。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+### 数据库管理工具
+
+- [dbeaver](https://github.com/dbeaver/dbeaver) - 免费的通用**数据库工具**和 `SQL` 客户端。
+- [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/uO48_DGwm9AqzpsVfG9tqw)</sup> - 适用于 `MySQL`、`Postgres`、`SQLite`、`SQL Server` 等的现代且易于使用的 `SQL` 客户端。
+- [cloudbeaver](https://github.com/dbeaver/cloudbeaver)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/p5LOyyPG90NwenfkPurp0A)</sup> - 一款 Web 数据库管理工具。[在线体验](https://demo.cloudbeaver.io/#/)
 - [phpmyadmin](https://github.com/phpmyadmin/phpmyadmin)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/bs5ffALI7KvPe9qfbaQsGA)</sup> - 一款操作 MySQL 和 MariaDB 的 Web 界面工具。[在线体验](https://demo.phpmyadmin.net/master-config/public/) [在线文档](https://docs.phpmyadmin.net/en/latest/index.html)
 - [GoNavi](https://github.com/Syngnat/GoNavi)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0APiAe7od1Ub8-olhY_bSw)</sup> - 一款基于 `Wails(Go)` 与 `React` 构建的跨平台数据库管理工具。
-- [databasus](https://github.com/databasus/databasus) - 一款免费、开源且可自行托管的数据库备份工具。
 - [dbx](https://github.com/t8y2/dbx)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/HpI-miUDzLyIO0lVL1xg3g)</sup> - 轻量级跨平台数据库客户端。[在线文档](https://dbxio.com/cn/docs/what-is-dbx)
+- [open-cdm](https://github.com/ClouGence/open-cdm)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/eqB_Oq_VbIsiCT_GW_vYUQ)</sup> - 一款免费且开源的数据库管理工具，提供了访问控制、数据脱敏、SQL 审核、CI/CD 等能力，并支持跨地区部署。[在线文档](https://www.cdmgr.com/docs/intro/product_intro/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -713,7 +720,7 @@
 - [music-website](https://github.com/Yin-Hongwei/music-website)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/LtBoao3BHsfbJSjYroWYMA)</sup> - 一个基于 `Vue3` + `SpringBoot` + `MyBatis` 实现的音乐网站。
 - [spotube](https://github.com/KRTirtho/spotube) - 一个开源跨多系统的**音乐播放器**客户端。
 - [SPlayer](https://github.com/imsyy/SPlayer)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/L7ByCbt0PuCxXjALwk-V_Q)</sup> - 一个简约的音乐播放器，支持逐字歌词、下载歌曲、展示评论区、音乐云盘及歌单管理、音乐频谱、移动端基础适配。
-- [Mineradio](https://github.com/XxHuberrr/Mineradio) - 一款 Windows 桌面沉浸式音乐播放器，把搜索播放、歌词舞台、粒子视觉、3D 歌单架和完整桌面模式组合成一个更接近现场感的私人音乐空间。
+- [Mineradio](https://github.com/XxHuberrr/Mineradio)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/W0lmGpjBJdUDWJt8SAvT2Q)</sup> - 一款 Windows 桌面沉浸式音乐播放器，把搜索播放、歌词舞台、粒子视觉、3D 歌单架和完整桌面模式组合成一个更接近现场感的私人音乐空间。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -922,6 +929,7 @@
 - [91Writing](https://github.com/ponysb/91Writing)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/G1MQ4P_uXlbzmR7GdFANtA)</sup> - 一个基于 `Vue3` + `Element Plus` 的智能 `AI` 小说创作工具，集成多种 `AI` 模型，助力作者高效创作。[在线体验](https://mlimli.art/home/kaiyuan/#/)
 - [llmfit](https://github.com/AlexsJones/llmfit)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/NM1EiOshq0fNoPKiXbyl-Q)</sup> - 一款终端工具，根据你系统的 `RAM`、`CPU` 和 `GPU` 为 `LLM` 模型匹配合适的规格。
 - [edict](https://github.com/cft0808/edict) - 一个基于“三省六部”制度思想的 `AI` 多智能体（`Multi-Agent`）协作系统。
+- [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) - DeepSeek Harness (DSH) Web UI 的插件和皮肤集合，提供任务板、`Git` 图表、右侧面板、远程移动 UI、宠物、实时令牌统计信息和皮肤中心邓功能。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1002,7 +1010,7 @@
 - [CordysCRM](https://github.com/1Panel-dev/CordysCRM)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/QsN6U_faztwsdW3QFK6i1A)</sup> - 新一代的开源 `AI CRM` 系统，是集信息化、数字化、智能化于一体的**客户关系管理系统**。[在线文档](https://cordys.cn/docs/)
 - [MaxKB](https://github.com/1Panel-dev/MaxKB)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/W3eqmjJdXYN--1GJM3oNdA)</sup> - 强大易用的企业级智能体平台。[在线文档](https://maxkb.cn/docs/v2/)
 - [LibreChat](https://github.com/danny-avila/LibreChat) - 一个自托管的 `AI` 对话平台，在一个注重隐私的统一界面中整合了所有主流 `AI` 服务商。[在线体验](https://chat.librechat.ai/) [在线文档](https://www.librechat.ai/zh/docs)
-- [StaffDeck](https://github.com/OpenBMB/StaffDeck) - 一个数字员工全流程构建与管理平台。[在线文档](https://staffdeck.openbmb.cn/#/docs/introduce?lang=zh)
+- [StaffDeck](https://github.com/OpenBMB/StaffDeck)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/vffKjJR94DDsF3Tgewfa3A)</sup> - 一个数字员工全流程构建与管理平台。[在线文档](https://staffdeck.openbmb.cn/#/docs/introduce?lang=zh)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1617,7 +1625,7 @@
 - [planka](https://github.com/plankanban/planka) - 一款看板式的项目管理工具。[在线体验](https://plankanban.github.io/planka/#/) [在线文档](https://docs.planka.cloud/)
 - [metersphere](https://github.com/metersphere/metersphere)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/6oUjqv9tDemoXX71c_jVZA)</sup> - 一站式开源**持续测试平台**, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter`、`Selenium` 等主流开源标准。[在线体验](https://www.metersphere.com/signup) [在线文档](https://metersphere.io/docs/v2.x/)
 - [super-productivity](https://github.com/super-productivity/super-productivity)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/WDQk-jdLU4iaWSbZ6MjQGg)</sup> - 一款用 `TypeScript` 开发的高级 `TODO` 应用，支持与 `Jira`、`GitHub`、`GitLab` 等第三方平台集成，提供 `Windows`、`Linux`、`macOS`、`iOS`、`Android` 和 `Web` 端。
-- [kaneo](https://github.com/usekaneo/kaneo) - 一款项目看板管理工具。[在线体验](https://cloud.kaneo.app/) [在线文档](https://kaneo.app/docs/core)
+- [kaneo](https://github.com/usekaneo/kaneo)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/CUa0EiIRlEZfdVl4RHjBtw)</sup> - 一款项目看板管理工具。[在线体验](https://cloud.kaneo.app/) [在线文档](https://kaneo.app/docs/core)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
