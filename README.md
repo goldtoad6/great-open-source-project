@@ -296,6 +296,7 @@
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - 独一无二的简历生成器。安全，可定制，可移植，开源且永久免费。[在线体验](https://rxresu.me/)
 - [open-resume](https://github.com/xitanggg/open-resume) - 一款功能强大的开源简历生成器和简历解析器。[在线体验](https://www.open-resume.com/)
 - [workout-cool](https://github.com/Snouzy/workout-cool) - 一款基于 `Next.js` + `TailwindCSS` 构建、免费开源的健身指导平台，提供丰富的健身动作和视频演示。[在线体验](https://workout.cool/)
+- [openGym](https://github.com/arvids-unavailable/openGym) - 一款由自己拥有的、可自行托管的健身和体重追踪器。[在线体验](https://opengym.duarte-santos.ch/demo/#/home)
 - ~~[MoonTV](https://github.com/LunaTechLab/MoonTV)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/HbsKx5PjJMl87h-5QJ1Uow)</sup> - 一个开箱即用的、跨平台的影视聚合播放站~~。
 - [LibreTV](https://github.com/LibreSpark/LibreTV) - 一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。
 - [LibreTV-App](https://github.com/KeyRotate/LibreTV-App) - LibreTV 跨平台客户端（`Android`、`Windows`、`Linux`、`MacOS` 等），直装免部署。
@@ -930,6 +931,8 @@
 - [llmfit](https://github.com/AlexsJones/llmfit)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/NM1EiOshq0fNoPKiXbyl-Q)</sup> - 一款终端工具，根据你系统的 `RAM`、`CPU` 和 `GPU` 为 `LLM` 模型匹配合适的规格。
 - [edict](https://github.com/cft0808/edict) - 一个基于“三省六部”制度思想的 `AI` 多智能体（`Multi-Agent`）协作系统。
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) - DeepSeek Harness (DSH) Web UI 的插件和皮肤集合，提供任务板、`Git` 图表、右侧面板、远程移动 UI、宠物、实时令牌统计信息和皮肤中心邓功能。
+- [OlliteRT](https://github.com/NightMean/OlliteRT) - 将安卓手机变成兼容 `OpenAI` 的 `API` `LLM` 服务器。
+- [dsh-desktop](https://github.com/dataelement/dsh-desktop) - 为 `DeepSeek Harness` 打造的本地优先、跨平台桌面应用。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1788,6 +1791,7 @@
 - [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - 集成 `DeepSeek` 模型的开源项目或者软件合集。
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - `VS Code` 插件集合项目。
 - [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 各种基于大语言模型（`LLM`）的 `APP` 合集。
+- [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/mIV5YS7CIu50FZASqWsrNQ)</sup> - `DeepSeek Harness` 插件精选列表。
 - [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学 `PDF` 教材。
 - [RollToolsApi](https://github.com/MZCretin/RollToolsApi) - 一个提供开发中常用数据的一个稳定聚合 `Api` 接口源。[在线文档](https://www.mxnzp.com/doc/list)
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - 整理优秀的 `Node.js` 项目和资源。
