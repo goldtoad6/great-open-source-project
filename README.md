@@ -165,6 +165,7 @@
 - [kamiFaka](https://github.com/Baiyuetribe/kamiFaka) - 基于 `Vue3` + `Flask` 构建的全新卡密发卡系统，适合虚拟商品、知识付费等。
 - [blind_watermark](https://github.com/guofei9987/blind_watermark) - 基于频域的数字盲水印。[在线文档](https://blindwatermark.github.io/blind_watermark/#/zh/)
 - [rendercv](https://github.com/rendercv/rendercv) - 一款 `YAML` 转 `PDF`、面向学者和工程师的简历生成器。[在线文档](https://docs.rendercv.com/)
+- [TrWebOCR](https://github.com/alisen39/TrWebOCR) - 开源易用的中文离线 `OCR`.
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -306,6 +307,7 @@
 - [FreeTool](https://github.com/zstar1003/FreeTool)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/eDWUWRWJta4US61LeSZdbw)</sup> - 一个纯前端的多功能在线工具站，提供实用的日常工具。[在线体验](https://xdxsb.top/FreeTool/)
 - [ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) - 紫微斗数开源排盘引擎，基于倪海夏《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据。[在线体验](https://wdyziweidoushu666.com)
 - [magic-resume](https://github.com/JOYCEQL/magic-resume)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/sClb6tG4KSzLUYzLkDoRew)</sup> - 一款基于 `TanStack Start` 和 `Motion` 构建的现代化在线 `AI` 简历编辑器，无需登录、内置多种模板。[在线体验](https://magicv.art/app/dashboard/resumes)
+- [floral-notepaper](https://github.com/Achilng/floral-notepaper) - 基于 `Tauri2` + `React` 构建、轻量、优雅、现代化的本地便签工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -872,6 +874,8 @@
 - [komari](https://github.com/komari-monitor/komari)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/y9bM3HL8-EqtaeGxiIpusA)</sup> - 一款轻量级的自托管服务器监控工具，旨在提供简单、高效的服务器性能监控解决方案。[在线体验](https://ss.akz.moe/) [在线文档](https://komari-document.pages.dev/)
 - [kula](https://github.com/c0m4r/kula) - 一款轻量独立的 Linux 服务器监控工具。[在线体验](https://demo.kula.ovh/)
 - [tianji](https://github.com/msgbyte/tianji) - 一款开源的轻量级监控与洞察工具。[在线文档](https://tianji.dev/zh-Hans/docs/intro)
+- [ServerKit](https://github.com/jhd3197/ServerKit) - 一款轻量、现代的服务器控制面板，用于管理 `Web` 应用、数据库、 `Docker` 容器和安全策略。、
+- [casos](https://github.com/casosorg/casos) - 一个基于 `Kubernetes` 构建的云操作系统，提供一个带 `Web` 界面和应用商店的可用集群。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -899,6 +903,7 @@
 - [flame](https://github.com/pawelmalak/flame) - 个人导航页。
 - [bmm](https://github.com/Y80/bmm)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/yzmgUqa8pp3LWHn34GQi4g)</sup> - 专属书签管家。[在线体验](https://bmm.lccl.cc/)
 - [karakeep](https://github.com/karakeep-app/karakeep)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/AGWAqwXyjR1chQ4C0vS4LA)</sup> - 一款可自托管的书签应用（支持链接、笔记和图片），具备基于人工智能的自动标签功能和全文搜索功能。[在线体验](https://try.karakeep.app/) [在线文档](https://docs.karakeep.app/)
+- [newtab-naivetab](https://github.com/GXFG/newtab-naivetab) - 一款可视化键盘展示书签和浏览器指令的浏览器插件，支持自由拖拽布局、深度自定义外观、专注模式、云同步。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -932,7 +937,7 @@
 - [edict](https://github.com/cft0808/edict) - 一个基于“三省六部”制度思想的 `AI` 多智能体（`Multi-Agent`）协作系统。
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) - DeepSeek Harness (DSH) Web UI 的插件和皮肤集合，提供任务板、`Git` 图表、右侧面板、远程移动 UI、宠物、实时令牌统计信息和皮肤中心邓功能。
 - [OlliteRT](https://github.com/NightMean/OlliteRT) - 将安卓手机变成兼容 `OpenAI` 的 `API` `LLM` 服务器。
-- [dsh-desktop](https://github.com/dataelement/dsh-desktop) - 为 `DeepSeek Harness` 打造的本地优先、跨平台桌面应用。
+- [dsh-desktop](https://github.com/dataelement/dsh-desktop)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/8iuu9KiX72R3KJTCqU8ZZA)</sup> - 为 `DeepSeek Harness` 打造的本地优先、跨平台桌面应用。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1014,6 +1019,7 @@
 - [MaxKB](https://github.com/1Panel-dev/MaxKB)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/W3eqmjJdXYN--1GJM3oNdA)</sup> - 强大易用的企业级智能体平台。[在线文档](https://maxkb.cn/docs/v2/)
 - [LibreChat](https://github.com/danny-avila/LibreChat) - 一个自托管的 `AI` 对话平台，在一个注重隐私的统一界面中整合了所有主流 `AI` 服务商。[在线体验](https://chat.librechat.ai/) [在线文档](https://www.librechat.ai/zh/docs)
 - [StaffDeck](https://github.com/OpenBMB/StaffDeck)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/vffKjJR94DDsF3Tgewfa3A)</sup> - 一个数字员工全流程构建与管理平台。[在线文档](https://staffdeck.openbmb.cn/#/docs/introduce?lang=zh)
+- [AstrBot](https://github.com/AstrBotDevs/AstrBot) - 一个开源的一站式 `Agent` 聊天机器人平台，可接入主流即时通讯应用，为个人、开发者和团队提供可靠、可扩展的对话式 `AI` 基础设施。[在线文档](https://docs.astrbot.app/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1021,6 +1027,9 @@
 
 - [zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 张雪峰.skill, 张雪峰的认知操作系统，高考志愿、考研、职业规划的实战思维框架。
 - [ai-berkshire](https://github.com/xbtlin/ai-berkshire) - 一套基于 `Claude Code` 的投资研究 `Skill` 合集。
+- [dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) - 一个真正适合职场人的 `PPT` `Skill`.
+- [ui-skills](https://github.com/ibelick/ui-skills) - 一个专门面向设计工程师和 `AI` 编程 `Agent` 的开源 `UI` 技能库。[在线文档](https://www.ui-skills.com/)
+- [skillsgate](https://github.com/skillsgate/skillsgate) - 一款面向 `AI` 编程 `Agent` 的可视化 `Skill` 管理工具，提供桌面端和终端 `TUI` 两种使用方式。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1353,6 +1362,7 @@
 - [hello-agents](https://github.com/datawhalechina/hello-agents) - 《从零开始构建智能体》——从零开始的智能体原理与实践教程。[在线体验](https://datawhalechina.github.io/hello-agents/#/README.md)
 - [claude-howto](https://github.com/luongnv89/claude-howto) - 从输入 `Claude` 开始，到编排 `Agents`、`Hooks`、`Skills` 和 `MCP Servers`，全程配有可视化教程、可直接复制粘贴的模板，以及循序渐进的学习路径。[在线体验](https://luongnv.com/claude-howto/)
 - [AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - `Claude Code` + `OpenClaw` + `Codex` 中文教程。
+- [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - 开源的 `WorkBuddy` 实战蓝皮书：教程、真实工作流、`Skills`、`MCP`、自动化与多智能体实践。[在线体验](https://workbuddy.homes/bluebook/)
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 交互式 `Git` 可视化和教程。[在线体验](https://learngitbranching.js.org/?locale=zh_CN)
 - [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - `DevOps` 学习路线和资源。
 - [CS-Base](https://github.com/xiaolincoder/CS-Base)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Phft-YJbMGui5AjBftd6LA)</sup> - 图解计算机网络、操作系统、计算机组成、数据库。[在线体验](https://xiaolincoding.com/)
@@ -1523,6 +1533,8 @@
 - [keyStats](https://github.com/debugtheworldbot/keyStats)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0OBruaGVfmIwQM4PHPXQkw)</sup> - 一款轻量级的 `macOS/Windows` 原生菜单栏应用，用于统计用户每日的键盘敲击次数、鼠标点击次数、鼠标移动距离和滚动距离。
 - [MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect) - 一款跨平台鼠标特效与输入可视化引擎。<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/NRPeRCJoNQwWBloLxynFtw)</sup>
 - [QADB](https://github.com/ludoven/QADB) - 一款基于 `Jetpack Compose Multiplatform` 开发的跨平台 `ADB` 图形化工具，支持 `Windows` 和 `macOS`.
+- [mhabit](https://github.com/FriesI23/mhabit) - 一款基于 Flutter 开发、用于培养和跟踪个人习惯的应用，通过每日打卡帮助用户更高效地养成习惯。
+- [WindInput](https://github.com/huanfeng/WindInput) - 轻量、快速、可定制的开源中文输入法。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1566,6 +1578,7 @@
 - [MicYou](https://github.com/LanRhyme/MicYou) - 一款强大的工具，能够将您的 `Android` 设备转变为 `PC` 的高质量麦克风。
 - [shiguangschedule](https://github.com/XingHeYuZhuan/shiguangschedule) - 一款开源、无广告、极简的课程表 `Android APP`，支持教务导入。
 - [Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - 一款功能全面且可扩展的 `Android` 文本编辑器，具有语法高亮、LSP 驱动的代码智能、内置终端、扩展程序以及用于高效编辑的快速项目级工具。
+- [ZenConverter](https://github.com/Jasonzhu1207/ZenConverter) - 一个 `Android` 本地文件转换器选择手机里的文件，在手机上完成转换，不把文件上传到别人的服务器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
