@@ -874,7 +874,7 @@
 - [komari](https://github.com/komari-monitor/komari)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/y9bM3HL8-EqtaeGxiIpusA)</sup> - 一款轻量级的自托管服务器监控工具，旨在提供简单、高效的服务器性能监控解决方案。[在线体验](https://ss.akz.moe/) [在线文档](https://komari-document.pages.dev/)
 - [kula](https://github.com/c0m4r/kula) - 一款轻量独立的 Linux 服务器监控工具。[在线体验](https://demo.kula.ovh/)
 - [tianji](https://github.com/msgbyte/tianji) - 一款开源的轻量级监控与洞察工具。[在线文档](https://tianji.dev/zh-Hans/docs/intro)
-- [ServerKit](https://github.com/jhd3197/ServerKit) - 一款轻量、现代的服务器控制面板，用于管理 `Web` 应用、数据库、 `Docker` 容器和安全策略。、
+- [ServerKit](https://github.com/jhd3197/ServerKit)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/fbx1SH17YEJ1uoB-LYx9qQ)</sup> - 一款轻量、现代的服务器控制面板，用于管理 `Web` 应用、数据库、 `Docker` 容器和安全策略。、
 - [casos](https://github.com/casosorg/casos) - 一个基于 `Kubernetes` 构建的云操作系统，提供一个带 `Web` 界面和应用商店的可用集群。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -1019,7 +1019,7 @@
 - [MaxKB](https://github.com/1Panel-dev/MaxKB)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/W3eqmjJdXYN--1GJM3oNdA)</sup> - 强大易用的企业级智能体平台。[在线文档](https://maxkb.cn/docs/v2/)
 - [LibreChat](https://github.com/danny-avila/LibreChat) - 一个自托管的 `AI` 对话平台，在一个注重隐私的统一界面中整合了所有主流 `AI` 服务商。[在线体验](https://chat.librechat.ai/) [在线文档](https://www.librechat.ai/zh/docs)
 - [StaffDeck](https://github.com/OpenBMB/StaffDeck)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/vffKjJR94DDsF3Tgewfa3A)</sup> - 一个数字员工全流程构建与管理平台。[在线文档](https://staffdeck.openbmb.cn/#/docs/introduce?lang=zh)
-- [AstrBot](https://github.com/AstrBotDevs/AstrBot) - 一个开源的一站式 `Agent` 聊天机器人平台，可接入主流即时通讯应用，为个人、开发者和团队提供可靠、可扩展的对话式 `AI` 基础设施。[在线文档](https://docs.astrbot.app/)
+- [AstrBot](https://github.com/AstrBotDevs/AstrBot)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/jB3WNN7VOG9lD8UdG0oEyQ)</sup> - 一个开源的一站式 `Agent` 聊天机器人平台，可接入主流即时通讯应用，为个人、开发者和团队提供可靠、可扩展的对话式 `AI` 基础设施。[在线文档](https://docs.astrbot.app/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1030,6 +1030,7 @@
 - [dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) - 一个真正适合职场人的 `PPT` `Skill`.
 - [ui-skills](https://github.com/ibelick/ui-skills) - 一个专门面向设计工程师和 `AI` 编程 `Agent` 的开源 `UI` 技能库。[在线文档](https://www.ui-skills.com/)
 - [skillsgate](https://github.com/skillsgate/skillsgate) - 一款面向 `AI` 编程 `Agent` 的可视化 `Skill` 管理工具，提供桌面端和终端 `TUI` 两种使用方式。
+- [human-writing](https://github.com/KKKKhazix/human-writing) - 通用创作与改稿 `Skill`, 让 `AI` 写的中文读起来像一个具体的人在说话。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1534,6 +1535,7 @@
 - [MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect) - 一款跨平台鼠标特效与输入可视化引擎。<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/NRPeRCJoNQwWBloLxynFtw)</sup>
 - [QADB](https://github.com/ludoven/QADB) - 一款基于 `Jetpack Compose Multiplatform` 开发的跨平台 `ADB` 图形化工具，支持 `Windows` 和 `macOS`.
 - [mhabit](https://github.com/FriesI23/mhabit) - 一款基于 Flutter 开发、用于培养和跟踪个人习惯的应用，通过每日打卡帮助用户更高效地养成习惯。
+- [Habo](https://github.com/xpavle00/Habo) - 一款注重隐私的习惯追踪器，采用 `Flutter` 构建，支持 `iOS` 和 `Android` 系统。
 - [WindInput](https://github.com/huanfeng/WindInput) - 轻量、快速、可定制的开源中文输入法。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
